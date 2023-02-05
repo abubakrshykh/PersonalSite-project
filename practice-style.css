@@ -1,0 +1,144 @@
+.upper{
+    
+
+   background-color: rgb(190, 212, 205);
+   text-align: center;
+   position: relative;
+   padding-top: 50px;
+   margin-bottom: 12px;
+
+}
+
+h1{
+    font-family:  'Sassy Frass',  cursive;
+    font-size: 120px;
+    margin: 100px 0 0 0;
+    color:#0b4646
+    
+}
+h2, h3{
+    color:#0b4646;
+  
+
+}
+.heading {
+    font-family: 'Cookie', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+}
+.cloud1{
+    position: absolute;;
+    top: 05%;
+    left: 75%;
+    width: 120px;
+    margin-bottom: 0px;
+}
+.cloud2{
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    width: 100px;
+    margin-bottom: 0px;
+}
+
+.middle{
+     
+   
+}
+
+.lower{
+    background-color: #6096B4;
+    padding: 3.2% 0 4% 0;
+    position: relative;
+
+}
+.footer-link{
+  color: #162133;
+    margin: 5% 3% 5% 3% ;
+    font-style: normal;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #D9D9DA;
+    
+}
+
+.last-paragraph{
+    position: absolute;
+    left:43%;
+    bottom:0%;
+    color: aliceblue;
+    font-size: 12px;
+}
+
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#me{
+    width: 15%;
+}
+
+.ml-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.sd-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me{
+    margin: 20px;
+}
+hr{
+    border-style: dotted none none none;
+    height: 0px;
+    width: 3%;
+   border-width: 5px;
+   border-color: rgb(155, 173, 188);
+}
+.BUTTON_BMW {
+    background: #3E6866;
+    
+    background-image: -webkit-linear-gradient(top, #6096B4, #6096B4);
+    background-image: -moz-linear-gradient(top, #6096B4, #6096B4);
+    background-image: -ms-linear-gradient(top, #6096B4, #6096B4);
+    background-image: -o-linear-gradient(top, #6096B4, #6096B4);
+    background-image: -webkit-gradient(to bottom, #6096B4, #6096B4);
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    border-radius: 37px;
+    color: #D9D9DA;
+    font-family: Georgia;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 10px;
+    -webkit-box-shadow: -6px -1px 20px 0 #000000;
+    -moz-box-shadow: -6px -1px 20px 0 #000000;
+    box-shadow: -6px -1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #6096B4 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 40px 0 40px 0;
+ 
+ 
+ }
+ 
+ .BUTTON_BMW:hover {
+    background-color: #7196a9;
+    color: #162133;
+ }
